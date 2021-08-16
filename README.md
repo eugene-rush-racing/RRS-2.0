@@ -1,2 +1,2 @@
 # RRS-2.0
-RRS 2.0
+Rush Racing System 2.0
